@@ -1,4 +1,4 @@
-[![Build Status](https://api.travis-ci.org/Cka3o4Huk/range-maven-plugin.svg?branch=master)](https://travis-ci.org/Cka3o4Huk/range-maven-plugin)
+[![Build Status](https://api.travis-ci.org/Cka3o4Huk/maven-range-plugin.svg?branch=master)](https://travis-ci.org/Cka3o4Huk/maven-range-plugin)
 [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.Cka3o4Huk/range-maven-plugin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.Cka3o4Huk/range-maven-plugin)
 
 range-maven-plugin
